@@ -31,6 +31,8 @@ Certifique-se de conferir o meu perfil para ver mais projetos interessantes.
 
 ## Estatísticas do GitHub
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcmiranda&layout=compact&theme=dracula)
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igorcmiranda&show_icons=true&theme=dark)
 
 Este README foi criado com ❤️ usando Markdown. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se quiser colaborar ou apenas bater um papo sobre programação!
