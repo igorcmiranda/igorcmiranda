@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá, sou Igor Miranda, um entusiasta da programação com paixão por diversas linguagens e tecnologias. Este é o meu espaço no GitHub, onde compartilho quase todos os projetos, experimentos e código que desenvolvi onde na maioria estão relacionados a:
+Olá, sou Igor Miranda, um entusiasta da programação com paixão por diversas linguagens e tecnologias. Este é o meu espaço no GitHub, onde compartilho quase todos os projetos, experimentos e código que desenvolvi e na maioria das vezes estão relacionados a:
 
 - <img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" width="40" height="40"> Bash
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"> C
