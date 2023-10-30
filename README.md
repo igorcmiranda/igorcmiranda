@@ -1,6 +1,6 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Welcome to my GitHub!
 
-Olá, sou Igor Miranda, um entusiasta da programação com paixão por diversas linguagens e tecnologias. Este é o meu espaço no GitHub, onde compartilho quase todos os projetos, experimentos e códigos que desenvolvi, e na maioria das vezes estão relacionados a:
+Hello, I'm Igor Miranda, a programming enthusiast with a passion for various languages and technologies. This is my space on GitHub, where I share almost all the projects, experiments and codes I have developed, and most of the time they are related to:
 
 - <img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" width="40" height="40"> Bash
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"> C
@@ -15,25 +15,25 @@ Olá, sou Igor Miranda, um entusiasta da programação com paixão por diversas 
 - <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"> Selenium
 
 
-## Sobre Mim
+## About Me
 
-- 🔭 Atualmente, estou trabalhando em um projeto de automação de WhatsApp com envio de pagamento PIX
-- 🌱 Estou aprendendo novas táticas com JavaScript
-- 💬 Pergunte-me sobre qualquer coisa relacionada à programação e tecnologia!
+- 🔭 I'm currently working on a WhatsApp automation project with PIX payment sending
+- 🌱 I'm learning new tactics with JavaScript
+- 💬 Ask me about anything related to programming and technology!
+  
+Be sure to check my profile to see more interesting projects.
 
-Certifique-se de conferir o meu perfil para ver mais projetos interessantes.
-
-## Contato
+## Contact
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/igorcmiranda/)
 - E-mail: [E-mail](igorcmiranda3110@gmail.com)
-- Outras redes sociais: [Instagram](https://www.instagram.com/igorc_miranda/)
+- Social Networks [Instagram](https://www.instagram.com/igorc_miranda/)
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcmiranda&layout=compact&theme=dracula)
+![TOP Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorcmiranda&layout=compact&theme=dracula)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igorcmiranda&show_icons=true&theme=dark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=igorcmiranda&show_icons=true&theme=dark)
 
-Este README foi criado com ❤️ usando Markdown. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se quiser colaborar ou apenas bater um papo sobre programação!
+This README was created with ❤️ using Markdown. Feel free to explore my projects and contact me if you want to collaborate or just chat about programming!
 
