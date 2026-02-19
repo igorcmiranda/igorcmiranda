@@ -33,10 +33,11 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Testing everything that I see on the internet.
+Developing my ideas.
+Always exploring.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently** Open to Work — Mogi Mirim, SP
 </details>
 
 <br/>
